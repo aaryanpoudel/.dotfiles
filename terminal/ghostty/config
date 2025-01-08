@@ -1,0 +1,17 @@
+#Typography
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 16.5
+adjust-cell-height = 2
+
+#Terminal Theme
+theme = /Applications/Ghostty.app/Contents/Resources/ghostty/themes/gruvboxdarkhard
+#theme = /Applications/Ghostty.app/Contents/Resources/ghostty/themes/vesper
+background-opacity = 0.85
+unfocused-split-opacity = 0.5
+macos-titlebar-style = hidden
+window-padding-x = 4
+window-padding-y = 4
+
+#Keymappings
+
+#Custom Configs
