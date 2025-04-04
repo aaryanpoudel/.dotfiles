@@ -4,8 +4,9 @@ font-size = 16.5
 adjust-cell-height = 2
 
 #Terminal Theme
-theme = /Applications/Ghostty.app/Contents/Resources/ghostty/themes/gruvboxdarkhard
+#theme = /Applications/Ghostty.app/Contents/Resources/ghostty/themes/gruvboxdarkhard
 #theme = /Applications/Ghostty.app/Contents/Resources/ghostty/themes/vesper
+theme = /Applications/Ghostty.app/Contents/Resources/ghostty/themes/catppuccin-mocha
 background-opacity = 0.85
 unfocused-split-opacity = 0.5
 macos-titlebar-style = hidden
@@ -15,3 +16,5 @@ window-padding-y = 4
 #Keymappings
 
 #Custom Configs
+#command = TERM=xterm-256color /user/bin/bash
+
